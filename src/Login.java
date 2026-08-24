@@ -1,5 +1,6 @@
 public class Login{
     public static void main(String[] args) {
-        System.out.print("Hola Mundo!!")
+        String user = "Eddabar07";
+        String password = "070910";
     }
 }
